@@ -1,0 +1,1 @@
+window.SparrowConfig = {"capturedCookies":[{"cookie_key":"amg_user_partner","sparrow_key":"cnid","aam_uuid":"aam_uuid"}],"events":[{"selector":"a","type":["click"]},{"options":{"_t":"share"},"selector":".share-item a","type":["click"]},{"selector":"window","type":["scroll","pageview"]}],"preinit":["4d","infinityid"],"origin":"ad-network","title":"Ad Network"}
